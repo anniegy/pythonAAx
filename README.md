@@ -1,2 +1,2 @@
-# UCL-Museums
-Our lovely website: Faith, Anna, Kate
+# UCL-Museums 2.0
+Attempting Python
